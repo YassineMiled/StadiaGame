@@ -16,4 +16,4 @@ source src.sql
 
 puis aller sur votre navigateur puis taper 
 
-http://localhost/StadiaGame/index.php?action=jeux
+http://localhost:8080/StadiaGame/index.php?action=jeux
