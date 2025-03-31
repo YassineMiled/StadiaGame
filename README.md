@@ -2,7 +2,7 @@
 
 aller sur Laragon  , faire la commande : https://github.com/YassineMiled/StadiaGame
 
-cd StadiaGame (2x)
+cd StadiaGame
 
 faire mysql -u root  
 
